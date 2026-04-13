@@ -47,15 +47,15 @@ Currently working at **BBVA (via Indra Group)** as a Data Consultant, where I've
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-1C3C3C?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-MultiAgent-red?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google Gemini-LLM-4285F4?style=flat-square&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex AI-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-LLM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 **Cloud & Data**
 
-![GCP](https://img.shields.io/badge/Google Cloud-Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Warehouse-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud Run-Serverless-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Realtime DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-Serverless-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
