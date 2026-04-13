@@ -94,15 +94,6 @@ Agentic AI pipeline to assess ESG policy compliance for enterprise clients. Buil
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieloviedogl&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloviedogl&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>"Building AI systems that solve real problems, at scale."</i>
 </p>
